@@ -5,7 +5,7 @@
 Forkio website is a beautifully simple and compact fast responsive website which is written
 using the best practices of JavaScript HTML/SCSS technologies and Responsive Web Design.
 
-[Forkio-Website-Link](https://mr-nazarii.github.io/forkio-project/)
+[Forkio-Website-Link](https://serhiisav.github.io/forkio-project/)
 
 ## What includes
 
